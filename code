@@ -1,0 +1,21 @@
+{
+  "embed": {
+    "color": 16744192,
+    "fields": [
+      {
+        "name": "[M] JohnnyBazzinga",
+        "value": "*Master*",
+        "inline": true
+      },
+      {
+        "name": "[M] RubenCosta",
+        "value": "*Master*",
+        "inline": true 
+      },
+      {
+        "name": "[M] Prake",
+        "value": "*Master*"
+      }
+    ]
+  }
+}
